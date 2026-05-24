@@ -1,0 +1,42 @@
+[
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/empty.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/car_app/car_app.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/motor/motor.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/mpu6050/mpu6050.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/oled/oled.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/soft_i2c/soft_i2c.c"
+   },
+   {
+      "directory" : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/track_exclude\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardwire/motor\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2\" -I\"C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/Debug\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ti/mspm0_sdk_2_10_00_04/source\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ti/ccs2050/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/WHY/Desktop/ProgramForCar/MOTOR_V1_1_2/hardware/track_exclude/track.c"
+   }
+]

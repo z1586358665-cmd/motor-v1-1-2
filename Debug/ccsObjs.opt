@@ -1,0 +1,12 @@
+"./empty.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+"./hardware/car_app/car_app.o"
+"./hardware/motor/motor.o"
+"./hardware/mpu6050/mpu6050.o"
+"./hardware/oled/oled.o"
+"./hardware/soft_i2c/soft_i2c.o"
+"./hardware/track_exclude/track.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a
