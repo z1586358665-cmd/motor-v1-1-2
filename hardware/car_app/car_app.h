@@ -11,6 +11,5 @@ void CarApp_Step(void);
 void CarApp_Step(void);
 
 /*absducygashcbaihs
-fhcuywgfiuyq
 dqhgdgqi */
 #endif
